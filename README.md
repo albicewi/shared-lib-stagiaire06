@@ -1,0 +1,1 @@
+# shared-lib-stagiaire06
